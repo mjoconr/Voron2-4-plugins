@@ -1,0 +1,6 @@
+[submodule "klipper_z_calibration"]
+	path = klipper_z_calibration
+	url = https://github.com/protoloft/klipper_z_calibration.git
+[submodule "moonraker-timelapse"]
+	path = moonraker-timelapse
+	url = https://github.com/mainsail-crew/moonraker-timelapse.git
