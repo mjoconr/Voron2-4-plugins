@@ -4,3 +4,9 @@
 [submodule "moonraker-timelapse"]
 	path = moonraker-timelapse
 	url = https://github.com/mainsail-crew/moonraker-timelapse.git
+[submodule "CanBoot"]
+	path = CanBoot
+	url = https://github.com/Arksine/CanBoot.git
+[submodule "klipper-led_effect"]
+	path = klipper-led_effect
+	url = https://github.com/julianschill/klipper-led_effect.git
