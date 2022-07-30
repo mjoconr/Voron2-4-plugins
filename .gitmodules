@@ -10,3 +10,6 @@
 [submodule "klipper-led_effect"]
 	path = klipper-led_effect
 	url = https://github.com/julianschill/klipper-led_effect.git
+[submodule "probe_accuracy_tests"]
+	path = probe_accuracy_tests
+	url = https://github.com/sporkus/probe_accuracy_tests.git
