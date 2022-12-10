@@ -13,3 +13,6 @@
 [submodule "probe_accuracy_tests"]
 	path = probe_accuracy_tests
 	url = https://github.com/sporkus/probe_accuracy_tests.git
+[submodule "ERCF-Software-V3"]
+	path = ERCF-Software-V3
+	url = https://github.com/moggieuk/ERCF-Software-V3.git
